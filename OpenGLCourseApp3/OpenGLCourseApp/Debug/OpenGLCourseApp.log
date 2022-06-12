@@ -1,0 +1,27 @@
+﻿  Camera.cpp
+  Light.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Light.cpp(25,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Light.cpp(26,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Light.cpp(28,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Light.cpp(29,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\main.cpp(139,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\main.cpp(166,29): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\main.cpp(166,4): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\main.cpp(165,47): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\main.cpp(165,22): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Material.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture.cpp
+  Window.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(129,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(130,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(134,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(135,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(137,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(138,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\OpenGLCourseApp\Window.cpp(87): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLCourseApp.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp3\Debug\OpenGLCourseApp.exe

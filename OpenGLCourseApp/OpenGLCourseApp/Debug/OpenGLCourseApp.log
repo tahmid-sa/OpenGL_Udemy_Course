@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Window.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.cpp(62): warning C4715: 'Window::initialize': not all control paths return a value
+C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGLCourseApp\OpenGLCourseApp\Window.h(19): error C4716: 'Window::getShouldClose': must return a value
